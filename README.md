@@ -21,5 +21,6 @@ The `voiceCategory` line is the category id that the user cated voice channels w
 ## Setup
  - Download the files either via zip from github or git clone.
  - If downloaded zip extract all files.
+ - Run the command `npm install` in the folder where the files are located.
  - Fill in the information needed in the `config.json` file, look at the config section of the readme to know how to get the items needed in the config file.
  - Run the command `node app.js` in the folder where the files are located.
