@@ -16,7 +16,7 @@ The `voiceName` line is what will come after the users name so for example with 
 
 The `discordToken` line is the Discord bot token that you get from the [Discord developer page](https://discordapp.com/developers/applications).
 
-The `voiceCategory` line is the category id that the user cated voice channels will go into.
+The `voiceCategory` line is the category id that the user created voice channels will go into.
 
 ## Setup
  - Download the files either via zip from github or git clone.
